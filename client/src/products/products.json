@@ -1,0 +1,211 @@
+[
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv premier col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-totten prod",
+    "name": "Tottenham 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "premier"
+  },
+  {
+    "dataprice1": "165",
+    "class1": "filterDiv laliga blue red col-md-4 bg-light",
+    "dataprice2": "165",
+    "class2": "prod-barca prod",
+    "name": "Barcelona 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$165",
+    "category": "laliga"
+  },
+  {
+    "dataprice1": "66",
+    "class1": "filterDiv national yellow green col-md-4 bg-light",
+    "dataprice2": "66",
+    "class2": "prod-brazil prod",
+    "name": "Brazil 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$66",
+    "category": "national"
+  },
+  {
+    "dataprice1": "165",
+    "class1": "filterDiv laliga yellow red col-md-4 bg-light",
+    "dataprice2": "165",
+    "class2": "prod-barca-away prod red",
+    "name": "Barca Away 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$165",
+    "category": "laliga"
+  },
+  {
+    "dataprice1": "165",
+    "class1": "filterDiv laliga yellow red col-md-4 bg-light",
+    "dataprice2": "165",
+    "class2": "prod-juve prod red",
+    "name": "Juventus 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$165",
+    "category": "laliga"
+  },
+  {
+    "dataprice1": "79",
+    "class1": "filterDiv national red col-md-4 bg-light",
+    "dataprice2": "79",
+    "class2": "prod-eng prod",
+    "name": "England 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$79",
+    "category": "national"
+  },
+  {
+    "dataprice1": "130",
+    "class1": "filterDiv premier red col-md-4 bg-light",
+    "dataprice2": "130",
+    "class2": "prod-man prod",
+    "name": "Manchester 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$130",
+    "category": "premier"
+  },
+  {
+    "dataprice1": "130",
+    "class1": "filterDiv national white green  col-md-4 bg-light",
+    "dataprice2": "130",
+    "class2": "prod-mex prod",
+    "name": "Mexico 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$130",
+    "category": "national"
+  },
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv laliga white col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-madrid prod",
+    "name": "Madrid 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "laliga"
+  },
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv premier white col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-chelsea prod",
+    "name": "Chelsea 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "premier"
+  },
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv national red blue col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-us prod",
+    "name": "US 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "national"
+  },
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv national white red blue col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-us-away prod",
+    "name": "US Away 2019/20",
+    "description": "Women's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "national"
+  },
+  {
+    "dataprice1": "39",
+    "class1": "filterDiv bundesliga black yellow col-md-4 bg-light",
+    "dataprice2": "39",
+    "class2": "prod-bor prod",
+    "name": "BVB 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$39",
+    "category": "bundesliga"
+  },
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv ligamx white col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-unam prod",
+    "name": "Pumas 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "ligamx"
+  },
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv seriea black col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-milan prod",
+    "name": "Milan 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "seriea"
+  },
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv ligamx blue yellow col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-unam-away prod",
+    "name": "Pumas Away 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "ligamx"
+  },
+  {
+    "dataprice1": "90",
+    "class1": "filterDiv bundesliga red blue col-md-4 bg-light",
+    "dataprice2": "90",
+    "class2": "prod-bayern prod",
+    "name": "Bayern 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$90",
+    "category": "bundesliga"
+  },
+  {
+    "dataprice1": "44",
+    "class1": "filterDiv ligamx white red col-md-4 bg-light",
+    "dataprice2": "44",
+    "class2": "prod-chivas prod",
+    "name": "Chivas 2019/20",
+    "description": "Men's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$44",
+    "category": "ligamx"
+  },
+  {
+    "dataprice1": "44",
+    "class1": "filterDiv seriea blue black col-md-4 bg-light",
+    "dataprice2": "44",
+    "class2": "prod-inter prod",
+    "name": "Inter 2019/20",
+    "description": "Women's Soccer Jersey",
+    "colors": "1 Color",
+    "price": "$44",
+    "category": "seriea"
+  }
+]

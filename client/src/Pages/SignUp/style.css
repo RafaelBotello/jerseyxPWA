@@ -1,0 +1,14 @@
+.signUpcontainer{
+    margin-top: 100px;
+    display: block;
+    height: 80vh;
+    width: 100%;
+}
+
+.signUpcontainer h1 {
+    font-size: 3rem;
+}
+
+.signUpcontainer input {
+    height: 60px;
+}

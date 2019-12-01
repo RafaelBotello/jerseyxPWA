@@ -1,0 +1,42 @@
+.custom-img {
+  height: 300px;
+  width: 100%;
+  display: block;
+  background-size: cover;
+  background-position: center;
+}
+
+.custom-img-1 {
+  background-image: url("./img/img1.jpg");
+}
+
+.custom-img-2 {
+  background-image: url("./img/img2.jpg");
+}
+
+.custom-img-3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./img/slide2.jpg");
+}
+
+.custom-img-4 {
+  background-image: url("./img/img3.jpg");
+}
+
+.custom-img-5 {
+  background-image: url("./img/img4.jpg");
+}
+
+.custom-img-6 {
+  background-image: url("./img/img5.jpg");
+}
+
+.img-text {
+  margin-top: 20vh;
+  display: block;
+  text-align: center;
+  font-size: 4rem;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}

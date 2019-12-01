@@ -1,0 +1,38 @@
+.parallax {
+  height: 80vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-1 {
+  background-image: url("./img/thanks.jpg");
+}
+
+.parallax-2 {
+  background-image: url("./img/slide1.jpg");
+}
+
+h1{
+  padding: 10px;
+}
+/* 
+h1, p, label {
+  text-align: left;
+} */
+
+input.error {
+  border: 1px solid red;
+}
+
+label.error {
+  font-weight: normal;
+  color: red;
+}
+
+textarea.error {
+  border: 1px solid red;
+  font-weight: normal;
+  color: red;
+}

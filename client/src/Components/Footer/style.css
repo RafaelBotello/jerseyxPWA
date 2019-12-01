@@ -1,0 +1,55 @@
+.big {
+  height: 50vh;
+  margin: 0%;
+  padding: 0%;
+  width: 100vh;
+  background-color: #252525;
+}
+
+.bg-footer {
+  background-color: #252525;
+}
+
+.footer-mgn {
+  display: block;
+  margin-left: 0;
+  height: 10vh;
+  margin-top: 20px;
+}
+
+.footer-custom {
+  text-align: center;
+  display: inline-block;
+}
+
+.footer-custom-icon {
+  text-align: center;
+  display: inline-block;
+}
+
+.icon {
+  margin-left: 20px;
+  margin-right: 20px;
+  transition: 1s;
+}
+
+
+.footer-link {
+  text-decoration: none;
+  color: black;
+  transition: 1s;
+}
+
+.footer-link:hover {
+  color: red;
+}
+
+.limit-con {
+  height: 7vh;
+
+}
+
+.limit:hover{
+  color: red;
+}
+

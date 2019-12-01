@@ -1,0 +1,14 @@
+.logincontainer{
+    margin-top: 100px;
+    display: block;
+    height: 80vh;
+    width: 100%;
+}
+
+.logincontainer h1 {
+    font-size: 3rem;
+}
+
+.logincontainer input {
+    height: 60px;
+}

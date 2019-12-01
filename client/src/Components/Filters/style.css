@@ -1,0 +1,145 @@
+/* Filter container */
+
+#myBtnContainer{
+  margin: 0px;
+    width: 23%;
+    margin-left: 10px;
+}
+
+.fixedleft {
+  display: block;
+  position: fixed;
+  padding-left: 0.5%;
+}
+
+.section-style {
+  margin: 0;
+  padding: 0;
+  display: block;
+  height: auto;
+  margin-bottom: 200px;
+}
+
+
+/* Mobile Filter */
+
+.filter-small {
+  top: 10vh;
+  margin: 0%;
+  padding: 0%;
+  position: fixed;
+  display: block;
+  width: 100%;
+  height: 10%;
+  left: 0;
+  border-radius: 0px;
+  text-align: center;
+  z-index: 1;
+  background-color: black;
+}
+
+/* Container buttons */
+
+.button--left {
+  width: 120px;
+  display: inline-block;
+}
+
+/* Mobile Container Buttons */
+
+.filter-small button {
+  width: 100%;
+  height: 10%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Desktop view media query */
+
+@media only screen and (min-width: 800px) {
+
+  .filter-small {
+    display: none;
+    width: 0vh;
+    height: 0vh;
+  }
+
+  .fixedleft {
+    display: block;
+    position: fixed;
+  }
+
+  .button--left {
+    margin: 10px;
+    width: 100%;
+    display: inline-block;
+  }
+
+}
+
+/* Mobile view media query */
+
+@media only screen and (max-width: 790px) {
+
+  .filters {
+    width: 100%;
+    height: 10%;
+  }
+  .filtercont {
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+  }
+
+  .filtercont button {
+    margin: 20px;
+    border: 5px solid blue;
+  }
+
+  .fixedleft {
+    display: none;
+    height: 0vh;
+    width: 0vh;
+  }
+
+}
+
+
+/* 
+.filter-small button {
+  width: 100%;
+  height: 10%;
+  margin: 0;
+  padding: 0;
+}
+.btn-cont-hide {
+  height: 0px;
+  display: none;
+}
+
+.droptoggle {
+  background: #161818;
+  border: solid 1px black;
+  border-radius: 0px 0px 20px 20px;
+  padding: 20px;
+}
+
+.droptoggle a {
+  color: white;
+}
+
+.textcolor {
+  color: white;
+}
+.textcolor button {
+  color: white;
+}
+
+.fixedleft {
+  display: none;
+}
+
+.button--left {
+  margin: 10px;
+  width: 120px;
+} */
