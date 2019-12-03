@@ -1,5 +1,6 @@
 const FILES_TO_CACHE = [
   "/",
+  "/products",
   "/index.html",
   "/favicon.ico",
   "/assets/images/icons/icon_72x72.png",
