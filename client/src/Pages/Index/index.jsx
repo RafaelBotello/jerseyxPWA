@@ -118,37 +118,44 @@ function Home() {
           <span className="sr-only">Next</span>
         </a>
       </div>
-      <div className="row">
-        <div className="col-md-4 bg-light custom-img custom-img-6" />
-        <div className="col-md-8 bg-light">
-          <p style={customers} className="text-dark">
-            At Jersey X, we care about our customers.
-          </p>
+      <div className="container-fluid">
+        <div className="row">
+          <div className="col-md-4 bg-light custom-img custom-img-6" />
+          <div className="col-md-8 bg-light">
+            <p style={customers} className="text-dark">
+              At Jersey X, we care about our customers.
+            </p>
+          </div>
+          <div className="col-md-7 bg-light text-dark" style={jerseyx}>
+            <h2>Who we are</h2>
+            <p>
+              A global team behind a smart website Jersey X is kind of a
+              peculiar bunch of very different people from all corners of the
+              globe. One thing we all share is a belief that sports should unite
+              people, and not get in their way.
+            </p>
+          </div>
+          <div className="col-md-5 bg-light custom-img custom-img-4" />
+          <div className="col-md-12 bg-light custom-img custom-img-3">
+            <span className="img-text">
+              <i>Jersey</i>
+              <img
+                src="./img/X.png"
+                height="60"
+                width="60"
+                alt="Jersey X logo"
+              />
+            </span>
+          </div>
+          <div className="col-md-8 bg-light text-dark" style={review}>
+            <h3>Don't forget to review our products!</h3>
+            <p>Your opinion matters and helps us improve our products.</p>
+            <a href="/contact" className="link">
+              <i> Thank you!</i>
+            </a>
+          </div>
+          <div className="col-md-4 bg-light custom-img custom-img-1" />
         </div>
-        <div className="col-md-7 bg-light text-dark" style={jerseyx}>
-          <h2>Who we are</h2>
-          <p>
-            A global team behind a smart website Jersey X is kind of a peculiar
-            bunch of very different people from all corners of the globe. One
-            thing we all share is a belief that sports should unite people, and
-            not get in their way.
-          </p>
-        </div>
-        <div className="col-md-5 bg-light custom-img custom-img-4" />
-        <div className="col-md-12 bg-light custom-img custom-img-3">
-          <span className="img-text">
-            <i>Jersey</i>
-            <img src="./img/X.png" height="60" width="60" alt="Jersey X logo" />
-          </span>
-        </div>
-        <div className="col-md-8 bg-light text-dark" style={review}>
-          <h3>Don't forget to review our products!</h3>
-          <p>Your opinion matters and helps us improve our products.</p>
-          <a href="/contact" className="link">
-            <i> Thank you!</i>
-          </a>
-        </div>
-        <div className="col-md-4 bg-light custom-img custom-img-1" />
       </div>
       <Footer />
     </div>

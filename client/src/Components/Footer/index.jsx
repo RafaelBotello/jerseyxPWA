@@ -22,7 +22,7 @@ function Footer() {
   return (
     <footer className="page-footer font-small bg-light" style={stylefoot}>
       <hr />
-      <div className="container" style={stylecont}>
+      <div className="container-fluid" style={stylecont}>
         <div className="row">
           <div className="col-md-12 col-xs-12 text-center py-5">
             <div className="flex-center limit-con">

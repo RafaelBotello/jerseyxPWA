@@ -93,79 +93,81 @@ export class Admin extends Component {
 
   render() {
     return (
-      <div className="row adminpage">
-        <div className="col-md-2"></div>
-        <div className="col-md-8">
-          <h1>Add Product</h1>
-          <h2>This is a protected route only accesible via login.</h2>
-          <form onSubmit={this.onSubmit} className="form-group">
-            <label>Product name: </label>
-            <input
-              required
-              className="form-control"
-              value={this.state.product_name}
-              onChange={this.onChangeProductName}
-              type="text"
-            ></input>
-            <label>Product Description: </label>
-            <input
-              required
-              className="form-control"
-              value={this.state.product_description}
-              onChange={this.onChangeProductDescription}
-              type="text"
-            ></input>
-            <label>Class 1:</label>
-            <input
-              required
-              className="form-control"
-              value={this.state.class1}
-              onChange={this.onChangeClass1}
-              type="text"
-            ></input>
-            <label>Class 2:</label>
-            <input
-              required
-              className="form-control"
-              value={this.state.class2}
-              onChange={this.onChangeClass2}
-              type="text"
-            ></input>
-            <label>Colors</label>
-            <input
-              required
-              className="form-control"
-              value={this.state.colors}
-              onChange={this.onChangeColors}
-              type="text"
-            ></input>
-            <label>Dataprice</label>
-            <input
-              required
-              className="form-control"
-              value={this.state.dataprice}
-              onChange={this.onChangeDataprice}
-              type="text"
-            ></input>
-            <label>Category:</label>
-            <input
-              required
-              className="form-control"
-              value={this.state.category}
-              onChange={this.onChangeCategory}
-              type="text"
-            ></input>
-            <br></br>
-            <div className="form-group">
+      <div classNam="container-fluid">
+        <div className="row adminpage">
+          <div className="col-md-2"></div>
+          <div className="col-md-8">
+            <h1>Add Product</h1>
+            <h2>This is a protected route only accesible via login.</h2>
+            <form onSubmit={this.onSubmit} className="form-group">
+              <label>Product name: </label>
               <input
-                type="submit"
-                value="Add product"
-                className="btn btn-primary"
-              />
-            </div>
-          </form>
+                required
+                className="form-control"
+                value={this.state.product_name}
+                onChange={this.onChangeProductName}
+                type="text"
+              ></input>
+              <label>Product Description: </label>
+              <input
+                required
+                className="form-control"
+                value={this.state.product_description}
+                onChange={this.onChangeProductDescription}
+                type="text"
+              ></input>
+              <label>Class 1:</label>
+              <input
+                required
+                className="form-control"
+                value={this.state.class1}
+                onChange={this.onChangeClass1}
+                type="text"
+              ></input>
+              <label>Class 2:</label>
+              <input
+                required
+                className="form-control"
+                value={this.state.class2}
+                onChange={this.onChangeClass2}
+                type="text"
+              ></input>
+              <label>Colors</label>
+              <input
+                required
+                className="form-control"
+                value={this.state.colors}
+                onChange={this.onChangeColors}
+                type="text"
+              ></input>
+              <label>Dataprice</label>
+              <input
+                required
+                className="form-control"
+                value={this.state.dataprice}
+                onChange={this.onChangeDataprice}
+                type="text"
+              ></input>
+              <label>Category:</label>
+              <input
+                required
+                className="form-control"
+                value={this.state.category}
+                onChange={this.onChangeCategory}
+                type="text"
+              ></input>
+              <br></br>
+              <div className="form-group">
+                <input
+                  type="submit"
+                  value="Add product"
+                  className="btn btn-primary"
+                />
+              </div>
+            </form>
+          </div>
+          <Footer></Footer>
         </div>
-        <Footer></Footer>
       </div>
     );
   }
