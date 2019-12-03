@@ -8,12 +8,7 @@ function Navbar(props) {
       <nav className="navbar navbar-dark navbar-custom fixed-top navbar-expand-lg">
         <a className="navbar-brand" href="#">
           Jersey
-          <img
-            src="http://pluspng.com/img-png/x-png-image-35402-272.png"
-            height="20"
-            width="20"
-            alt="Jersey X logo"
-          />
+          <img src="./img/X.png" height="20" width="20" alt="Jersey X logo" />
         </a>
         <button
           className="navbar-toggler"
