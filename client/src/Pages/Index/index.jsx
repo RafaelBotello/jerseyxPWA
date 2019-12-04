@@ -141,8 +141,8 @@ function Home() {
               <i>Jersey</i>
               <img
                 src="./img/X.png"
-                height="60"
-                width="60"
+                height="40"
+                width="40"
                 alt="Jersey X logo"
               />
             </span>
