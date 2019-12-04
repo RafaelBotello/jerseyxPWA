@@ -32,7 +32,7 @@ https://jerseyxpwa.herokuapp.com/
 
 ### Mobile Shortcut
 
-![](img/mobileshorcut.png)
+![](img/mobileshortcut.png)
 
 ## Requirements
 
