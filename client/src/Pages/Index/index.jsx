@@ -139,12 +139,7 @@ function Home() {
           <div className="col-md-12 bg-light custom-img custom-img-3">
             <span className="img-text">
               <i>Jersey</i>
-              <img
-                src="./img/X.png"
-                height="60"
-                width="60"
-                alt="Jersey X logo"
-              />
+              <img src="./img/X.png" alt="Jersey X logo" />
             </span>
           </div>
           <div className="col-md-8 bg-light text-dark" style={review}>
