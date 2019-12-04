@@ -1,10 +1,38 @@
-# Jersey X
+# Jersey X Progressive Web App
 
 An Ecommerce website that serves an ExpressJS JSON api to a React client application. The React application is configured for a basic JWT authentication flow **WITHOUT** using redux. Great for those of you that are somewhat familiar with Node, Express, and Mongoose, but want to see an implementation of React + React Router with JWT authentication.
 
-https://jerseyxw.herokuapp.com/
+https://jerseyxpwa.herokuapp.com/
 
 ---
+
+## Progressive Web APP Screenshots
+
+### Audit Scores
+
+![](img/auditscores.png)
+
+## Audit
+
+| Pre-Audit             |      Post-Audit       |
+| --------------------- | :-------------------: |
+| ![](img/oldaudit.png) | ![](img/newaudit.png) |
+
+### Pwa Scores
+
+![](img/auditpwa.png)
+
+### Mobile View Home
+
+![](img/mobileview.png)
+
+### Mobile View Products
+
+![](img/mobileproduct.png)
+
+### Mobile Shortcut
+
+![](img/mobileshorcut.png)
 
 ## Requirements
 
@@ -51,7 +79,7 @@ After installing node, this project will need yarn too, so just run the followin
 
 ## Install
 
-    $ git clone https://github.com/RafaelBotello/Jerseyx-v4
+    $ git clone https://github.com/RafaelBotello/jerseyxPWA
     $ cd Jerseyx-v4
     $ yarn install
 
