@@ -37,7 +37,7 @@ class SignUp extends React.Component {
   render() {
     const { name, email, password } = this.state.fields;
     return (
-      <div className="container-fluid signUpcontainer">
+      <div className=" container-fluid signUpcontainer">
         <div className="row">
           <div className="col-md-2"></div>
           <div className="col-md-8">
