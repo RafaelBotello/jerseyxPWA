@@ -37,7 +37,6 @@ class ProductsPage extends React.Component {
 
   onHandleFilterLow = e => {
     console.log(this.state.products);
-    console.log(this.state.error);
     let productLow = this.state.products.sort(function(a, b) {
       return a.price - b.price;
     });
@@ -48,7 +47,6 @@ class ProductsPage extends React.Component {
 
   onHandleFilterHigh = e => {
     console.log(this.state.products);
-    console.log(this.state.error);
     let productHigh = this.state.products.sort(function(a, b) {
       return b.price - a.price;
     });
@@ -60,7 +58,6 @@ class ProductsPage extends React.Component {
   onHandleFilter = e => {
     const filter = e.target.value;
     console.log(this.state.products);
-    console.log(this.state.error);
     let filters = [filter];
     if (filter === "all") {
       filters = [];
