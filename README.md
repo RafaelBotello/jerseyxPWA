@@ -14,7 +14,7 @@ https://jerseyxpwa.herokuapp.com/
 
 ## Audit
 
-| Pre-Audit             |      Post-Audit       |
+| Pre-PWA               |          PWA          |
 | --------------------- | :-------------------: |
 | ![](img/oldaudit.png) | ![](img/newaudit.png) |
 
