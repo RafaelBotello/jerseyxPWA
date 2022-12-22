@@ -29,7 +29,7 @@
     "helmet": "^3.21.1",
     "if-env": "^1.0.4",
     "inquirer": "^7.0.0",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "mocha": "^6.2.1",
     "mongoose": "^5.7.11",
